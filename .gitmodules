@@ -1,0 +1,3 @@
+[submodule "folder/hugo-theme-restart"]
+	path = folder/hugo-theme-restart
+	url = https://github.com/andrewclewis/hugo-theme-restart
